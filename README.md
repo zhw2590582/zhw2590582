@@ -6,6 +6,4 @@
 
 -------------
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhw2590582&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<img width="460" height="182" src="https://ns.yuy1n.io/card/a5907405f98a24b6/history" />
+<img width="460" height="180" src="https://github-readme-stats.vercel.app/api?username=zhw2590582&show_icons=true" /><img width="460" height="182" src="https://ns.yuy1n.io/card/a5907405f98a24b6/history" />
