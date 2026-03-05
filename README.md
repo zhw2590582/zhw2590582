@@ -1,7 +1,3 @@
--------------
+### 📝  Online Free Subtitle Editor: [https://aimu.app](https://aimu.app)
 
-### 📝  在线免费字幕编辑器: [https://aimu.app](https://aimu.app)
-
-> 在线免费，语音识别，音频波形，双语字幕，字幕翻译，字幕样式，视频转码，字幕压制，视频导出，字幕导出，批量任务...
-
--------------
+> Free Online, Speech Recognition, Audio Waveform, Bilingual Subtitles, Subtitle Translation, Subtitle Style, Video Transcoding, Subtitle Pressing, Video Export, Subtitle Export...
