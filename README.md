@@ -1,3 +1,3 @@
 ### 📝  Online Free Subtitle Editor: [https://aimu.app](https://aimu.app)
 
-> Free Online, Speech Recognition, Audio Waveform, Bilingual Subtitles, Subtitle Translation, Subtitle Style, Video Transcoding, Subtitle Pressing, Video Export, Subtitle Export...
+> Aimu is a free online subtitle editor that allows you to create, edit, and translate subtitles.
