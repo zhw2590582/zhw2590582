@@ -1,3 +1,3 @@
-### 📝  Online Free Subtitle Editor: [https://aimu.app](https://aimu.app)
+### 📝  Free Online Video, Audio, and AI Tools: [https://artplayer.org](https://artplayer.org)
 
-> Aimu is a free online subtitle editor that allows you to create, edit, and translate subtitles.
+> Open 80+ focused tools for video, audio, subtitles, images, recording, and AI-assisted media work. Most workflows run locally in your browser, with no sign-up for local tools.
